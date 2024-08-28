@@ -18,3 +18,9 @@
 
 - **pow()** `calcula a potencia`
 - **sqrt()** `calcula a raiz quadrada`
+
+## Funções de valor absoluto minimo e maximo
+
+- **abs()**
+- **max()**
+- **min()**
